@@ -7,7 +7,7 @@
 	$.icndb.client.id = 4;
 	$.icndb.client.version = 0.1;
 
-	var base = "http://api.icndb.com/";
+	var base = "//api.icndb.com/";
 
 	/**
 	 *	Returns the full URL of the given resource.
